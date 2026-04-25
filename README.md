@@ -25,6 +25,7 @@ Bayangkan kamu sedang membuka website restoran modern—kamu bisa melihat menu l
   - 🥤 Minuman
 - Tampilan modern dengan card & gambar menu
 - Menu tampil acak saat memilih kategori **Semua** 🔀
+- Memesan berbagai menu dengan keranjang.
 
 ---
 
